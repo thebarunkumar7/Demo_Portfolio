@@ -1,7 +1,7 @@
 <h1 align="center">MY PORTFOLIO</h1>
 
 <p align="center">
-  <img src="./demo-portfolio.svg" alt="Password Generator" width="700">
+  <img src="./demo-portfolio.svg" alt="MY PORTFOLIO" width="700">
 </p>
 
 ### Overview
