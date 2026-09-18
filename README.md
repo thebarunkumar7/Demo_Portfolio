@@ -1,7 +1,7 @@
 <h1 align="center">MY PORTFOLIO</h1>
 
 <p align="center">
-  <img src="./assets/demo_portfolio.svg" alt="MY PORTFOLIO" width="700">
+  <img src="./assets/demo_portfolio.svg" alt="MY PORTFOLIO" width="400">
 </p>
 
 ### Overview
